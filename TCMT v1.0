@@ -1,0 +1,5 @@
+The app will record camera sensor and microphone data, which is used for the purpose of taking photos and recording videos.
+No data is shared with anyone.
+
+Location permission is required for geotagging of photos, but this is disabled by default. If enabled, your location is encoded
+in the saved image and video files (and it is only used for this purpose). No location data is shared.
