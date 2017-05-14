@@ -1,0 +1,2 @@
+# privacy
+Some privacy policies
